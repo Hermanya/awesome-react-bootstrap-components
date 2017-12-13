@@ -2,27 +2,8 @@
 
 > React.js components made using Twitter Bootstrap
 
-
-## Contents
-
-- [Section](#section)
-- [Another Section](#another-section)
-
-
-## Section
-
-About this section. Optional. Keep this short and focus on the list.
-
-- [List item](http://example.com)
-- [List item](http://example.com)
-
-
-## Another Section
-
-### Subsection
-
-- [List item](http://example.com)
-- [List item](http://example.com)
+## [International telephone input](https://github.com/theslip/react-bootstrap-intl-tel-input) | bootstrap 4️⃣
+![International telephone input demo](https://github.com/theslip/react-bootstrap-intl-tel-input/raw/master/src/demo.gif)
 
 
 ## Contribute
