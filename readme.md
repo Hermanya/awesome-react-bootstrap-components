@@ -12,6 +12,12 @@
 [Table](https://github.com/AllenFang/react-bootstrap-table) 3️⃣4️⃣
 ---
 
+
+![React bootstrap date range picker demo](https://media.giphy.com/media/3ohs81CDOQkeGT7FN6/giphy.gif)
+
+[Date range picker](https://github.com/skratchdot/react-bootstrap-daterangepicker) 3️⃣
+---
+
 ## Contribute
 
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
