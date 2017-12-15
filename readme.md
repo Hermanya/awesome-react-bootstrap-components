@@ -1,6 +1,6 @@
 # Awesome React Bootstrap Components [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-> React.js components made using Twitter Bootstrap
+> React.js components made using Bootstrap
 
 Most of the following components rely on [react-bootstrap](https://react-bootstrap.github.io/), you can check out their [default components over here](https://react-bootstrap.github.io/components.html).
 
