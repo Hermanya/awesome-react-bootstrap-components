@@ -64,7 +64,7 @@ Most of the following components rely on [react-bootstrap](https://react-bootstr
 
 ## Contribute
 
-Contributions welcome! Read the [contribution guidelines](contributing.md) first.
+Contributions welcome!
 
 
 ## License
