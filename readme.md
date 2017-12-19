@@ -6,6 +6,11 @@ Most of the following components rely on [react-bootstrap](https://react-bootstr
 
 ---
 
+## [Off-canvas Navbar](https://github.com/Hermanya/react-bootstrap-navbar-offcanvas) 3⃣ 4️⃣
+![Off-canvas Navbar demo](https://media.giphy.com/media/3ohk6wh0bYPXJgbNks/giphy.gif)
+
+---
+
 ## [International telephone input](https://github.com/theslip/react-bootstrap-intl-tel-input) 4️⃣
 
 ![International telephone input demo](https://github.com/theslip/react-bootstrap-intl-tel-input/raw/master/src/demo.gif)
