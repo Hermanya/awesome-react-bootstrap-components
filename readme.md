@@ -39,8 +39,8 @@ Most of the following components rely on [react-bootstrap](https://react-bootstr
 ---
 
 ## [Select](https://github.com/tjwebb/react-bootstrap-select) 3⃣
-![React bootstrap select demo](https://camo.githubusercontent.com/1efb3d2209dfc4b24281b0a1bc90b5f51ce06793/687474703a2f2f692e696d6775722e636f6d2f797049785a5a322e676966)
 
+<img alt="React bootstrap select demo" src="https://camo.githubusercontent.com/1efb3d2209dfc4b24281b0a1bc90b5f51ce06793/687474703a2f2f692e696d6775722e636f6d2f797049785a5a322e676966" width="480"/>
 ---
 
 ## [Switch](https://github.com/Julusian/react-bootstrap-switch) ️3⃣
@@ -54,7 +54,7 @@ Most of the following components rely on [react-bootstrap](https://react-bootstr
 ---
 
 ## [Table](https://github.com/AllenFang/react-bootstrap-table) 3⃣ 4️⃣
-![React bootstrap table screen](https://camo.githubusercontent.com/9cff213848aba00fca5ce1c6a316d036bbd00042/687474703a2f2f692e696d6775722e636f6d2f4f7631774d73652e706e67)
+<img alt="React bootstrap table screen" src="https://camo.githubusercontent.com/9cff213848aba00fca5ce1c6a316d036bbd00042/687474703a2f2f692e696d6775722e636f6d2f4f7631774d73652e706e67" width="480"/> 
 
 ---
 
