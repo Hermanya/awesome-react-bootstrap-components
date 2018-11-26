@@ -5,6 +5,8 @@
 
 Most of the following components rely on [react-bootstrap](https://react-bootstrap.github.io/), you can check out their [default components over here](https://react-bootstrap.github.io/components.html).
 
+Also take a look at [classNamed](https://github.com/Hermanya/classnamed-components), it's the easiest way to create your own react component using bootstrap classes and utilities.
+
 ---
 
 ## [Off-canvas Navbar](https://github.com/Hermanya/react-bootstrap-navbar-offcanvas) 3⃣ 4️⃣
