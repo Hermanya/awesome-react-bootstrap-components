@@ -63,6 +63,12 @@ Also take a look at [classNamed](https://github.com/Hermanya/classnamed-componen
 
 ---
 
+## [Button loader](https://github.com/yury-dymov/react-bootstrap-button-loader)
+<img alt="React bootstrap button loader"
+src="https://github.com/yury-dymov/react-bootstrap-button-loader/raw/master/docs/gifs/demo.gif"/>
+
+---
+
 ## [React router integration](https://github.com/react-bootstrap/react-router-bootstrap)
 ```html
 <LinkContainer to="/foo/bar">
