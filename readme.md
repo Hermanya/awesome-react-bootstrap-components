@@ -7,9 +7,17 @@ Most of the following components rely on [react-bootstrap](https://react-bootstr
 
 Also take a look at [classNamed](https://github.com/Hermanya/classnamed-components), it's the easiest way to create your own react component using bootstrap classes and utilities.
 
+
+---
+
+## [Dialog](https://github.com/akiroom/react-bootstrap-dialog)
+![React bootstrap dialog demo](https://camo.githubusercontent.com/4ee77d759e9180b3e410db733e610d9df004897b/68747470733a2f2f692e6779617a6f2e636f6d2f64396330373363366337643636633035653533393866333836333435663435322e676966)
+
 ---
 ## [Date picker](https://github.com/pushtell/react-bootstrap-date-picker)
 ![React bootstrap Date picker demo](https://cdn.rawgit.com/pushtell/react-bootstrap-date-picker/master/documentation-images/date-picker-screencast.gif)
+
+---
 
 ## [Off-canvas Navbar](https://github.com/Hermanya/react-bootstrap-navbar-offcanvas) 3⃣ 4️⃣
 ![Off-canvas Navbar demo](https://media.giphy.com/media/3ohk6wh0bYPXJgbNks/giphy.gif)
