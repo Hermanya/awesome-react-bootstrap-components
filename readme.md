@@ -9,6 +9,8 @@ Also take a look at [classNamed](https://github.com/Hermanya/classnamed-componen
 
 
 ---
+## [Image Cropper](https://github.com/zhaoyao91/react-bootstrap-image-cropper)
+![demo](https://user-images.githubusercontent.com/3808838/65366436-64537500-dc56-11e9-8754-f4566e90ebdc.gif)
 
 ## [Easy Dialog](https://github.com/zhaoyao91/react-bootstrap-easy-dialog)
 ![react-bootstrap-easy-dialog demo](https://user-images.githubusercontent.com/3808838/65293160-dd869580-db8c-11e9-8a2c-271a4c3504f2.gif)
